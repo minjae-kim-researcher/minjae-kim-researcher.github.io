@@ -5,112 +5,112 @@ title: Research Career
 
 <br/>
 
+# Academic Experiences
 
-# Research Experience
+### Multi-purpose Small Reactor System Dev. Division, Korea Atomic Energy Research Institute (KAERI)
+#### Engineer, Aug 2024 to Present
 
-### Electronics and Telecommunications Research Institute
-#### Senior Researcher, 2014 to Present
+* Project (ongoing): _**Development of Multi-purpose Small Modular Reactor**_
+  * Role: Design primary system of multi-purpose Small Modular Reactor with computational fluid dynamics
 
-* Project (ongoing): _**Multi-cloud service common framework**_
-  * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
-* Project: _**Heterogeneous multi-cloud service brokerage platform**_
-  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
-* Project: _**Big data-based IT system operation and analysis framework**_
-  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+### Applied Dynamics and Intelligent Prognosis Lab. (ADIP), Hanyang University (Seoul)
+#### Post. Masters Student, Mar 2024 to Jul 2024
 
-### TestMidas, Inc.
-#### Senior Researcher,	2013 to 2014
+* Project: _**High-speed thermal runaway and SOX prediction method via AX for interchangeable Lithium-ion and All-Sold-State Battery module**_
+  * Role: Drawing up proposals on international cooperation about LiB battery prognostics (w./ Univ. of Michigan, Korea Automotive Technology Institute (KATECH), evME (Thailand))
 
-* Project: _**An open source-based testing tool for Cloud OS validation**_
-  * Role: design and development of openstack validation tool, openstack-based cloud API testing.
+#### Masters Student, Mar 2022 to Feb 2024
 
-### Gwangju Institute of Science and Technology (GIST)
-#### Ph.D. Student, 2009 to 2012
+* Project: _**Development Of Intelligent Operation & Maintenance Technologies For Standard Combined Cycle Power Plant (annually $250,000 for 3 yrs.)**_
+  * Role: Developed deep learning-based real-time monitoring method for real-world gas turbines in combined cycle power plant (w./ Korea Electric Power Corporation)
 
-* Project: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
-  * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
+#### Student researcher, Oct 2021 to Feb 2022
 
-### Gwangju Institute of Science and Technology (GIST)
-#### Master Student, 2006 to 2008
+* Project: _**Development Of Elevator Operation Management Technology Based On Predictive Preservation (annually $150,000 for 1 yr.)**_
+  * Role: Developed a novel fault detection and prediction method for elevator door motors (w./ Hyundai Elevator Inc.)
 
-* Project: _**Development of e-organ system based on cyber computing**_
-  * Role: development of a high resolution interactive brain visualization system (3D brain, MRI, and EIT images)
-* Project: _**Research on realistic digital broadcasting technology**_
-  * Role: development of a realistic broadcasting system
-* Project: _**Development of Immersive 3D networked virtual environment technology**_
-  * Role: development of a delay compensation mechanism to mitigate network delay problems in 3D network virtual environment with haptic devices
+### Department of Infrastructure Safety Research, Korea Institute of Civil Engineering and Building Technology (KICT)
+#### Intern, Jan 2020 to Feb 2020
+
+* Project: _**Development of mobile non-destructive testing devices for detecting faults at pre-stressed concrete of bridge**_
+  * Role: Designed the hardware of the devices with AutoCAD, adjusted the design by using 3D printing, produced the NDT device with a solenoid, and validated the NDT device with experiments
 
 <br/>
 
-# Professional Activity
+# Teaching Experiences
 
-### Open Source Project Contribution
-
-* Kubernetes project contents owner
-  * Official member of Kubernetes organization (Github)
-  * Contributor of [Kubernetes/website](https://github.com/kubernetes/website) (approver/reviewer/contributor)
-  * Contributor of [Kubernetes/dashboard](https://github.com/kubernetes/dashboard) (approver/reviewer/contributor)
-* Cloud-Barista project owner
-  * Technical leader for [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug)
-  * Owner of [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project (approver/reviewer/contributor)
-  * Owner of [Cloud-Barista/CB-Operator](https://github.com/cloud-barista/cb-operator) (approver/reviewer/contributor)
-* Github Profile: [https://github.com/seokho-son](https://github.com/seokho-son)
-
-### Reviewer for Reputed Journals
-
-* ACM Computing Surveys (ACM)
-* IEEE Transactions on Cloud Computing (IEEE)
-* IEEE Transactions on Service Computing (IEEE)
-* Journal of Supercomputing (Springer)
-* Information Systems Frontier (Springer)
-* International Journal of Cloud Computing (Inderscience)
-* ETRI Journal (Wiley)
-
-### International Standardization
-
-* ITU-T SG13 : main contributor of Y.csb-reqts (recommendation for cloud service brokerage requirements)
-  * Activities to obtain editorship of Y.csb-reqts document (Geneva, June 2016)
-  * 19 proposals (contributions) have been accepted for Y.csb-reqts
-* ITU-T SG13 : main contributor of Y.mc-reqts (recommendation for multi-cloud requirements)
-  * Activities to obtain editorship of Y.mc-reqts document (Geneva, June 2019)
-  * 3 proposals (contributions) have been accepted for Y.mc-reqts
-* Committee of [Korea ITU Committee](https://www.koreaitu.or.kr/)
-
-### Conference Committee
-
-* Paper Session Chair: The 2012 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA'12), Cloud Computing Session
-* Conference Committee: Mexico Satellite Session of IEEE BigData (Mexico City, May 8, 2014)
-
-### Invited Talk
-
-* Invited Talk regarding **_Introduction to Container-based Computing Platform (feat. Kubernetes)_**, 2020
-* Invited Talk regarding [**_Getting Involved in Kubernetes SIG Docs and Korean Localization_**](https://k8sforumseoul19eng.sched.com/event/WIRH/getting-involved-in-kubernetes-sig-docs-and-korean-localization-seokho-son-electronics-and-telecommunications-research-institute-etri-ian-choi-microsoft), Kubernetes Forum Seoul (LinuxFoundataion), 2019
-* Invited Talk regarding **_Cloud Computing with IoT_**, Handong-Univ., 2017
-* Invited Talk regarding **_Cloud Service Brokerage Systems_**, in the Education and Training for CSP experts sponsored by Consortium of Cloud Computing Research , 2016
-* Invited Talk regarding **_HPC over Cloud_**, in Korea Supercomputing Conference 2015, 2015
-* Invited Talk regarding **_HPC Cloud_**, in SCENT HPC Summer School at GIST, 2015
-* Invited Technical Committee for **_Cloud computing and Big data_**, National Computing & Information Agency (Government data center of Korea), 2012
-  * invited expert and lecturer of the SMART Cloud group in NCIA which is a national institute to operate information systems of Korea government. Made several lectures during a year regarding Cloud computing and big data to 30 public officials including senior civil servants.
-* Invited Expert for **_Cloud computing and parallel computing systems_**, Mokwon University in Korea, 2012-2013
-  * assisted a research team in Mokwon University to help the team construct a distributed computing system to process massive data from a large antenna.
-
+* ADVANCED COMPUTER-AIDED DESIGN
+  * Provided lessons to 30 graduate students with the CAD (CATIA) practice class for a semester
+* DYNAMICS AND CONTROL EXPERIMENT
+  * Assisted the experiment class by preparing and arranging the training devices including oscilloscope and circuits for a semester
 
 <br/>
 
-# Honor and Award
+# Honors and Awards
 
-* Award from Startup Idea Contest 2020 of ETRI
-* Best Paper Presentation Award from Korea Information Science Society	2014
-  * Best paper presentation in Korea Computer Congress 2014
-* Best Paper Presentation Award from Korea Information Science Society	2012
-  * Best paper presentation in Korea Computer Congress 2012
-* Amazon Web Services (AWS) in Education Research Grant	2012
-  * A research proposal has been accepted from Amazon Web Services, Inc
-* National Scholarship for PhD from Korea government	2009–2013
-  * Full financial support from Korea government as a PhD student in GIST  
-* National Scholarship for MS from Korea government	2006–2008
-  * Full financial support from Korea government as a MS student in GIST  
-* Brain Korea 21 (BK21) Scholarship (3 times)	2003–2005
-  * Scholarship from BK21 organized by Ministry of Education and Human Resources Development of South Korea.
-* Pukyong National University Scholarship for Top Student (2 times)	2005–2006
-  * A financial support that fully covers a BS semester, given to a student who achieved the highest GPA in a semester.
+* The Korean Government Scholarship Program For Study Overseas (2024)
+  * Ministry of Education, Korea Government
+* Fulbright U.S.-Korea Presidential Stem Initiative Award	(2024)
+  * Fulbright Foundation, US Government
+* Kwan-Jeong Graduate Scholarship,	Mar 2022 - Feb 2024 (Stipend, 4 Semesters)
+  * Kwan-Jeong Educational Foundation
+  * One of the most prestigious merit-based scholarship in Korea awarded to one graduate student in the university
+* Seah Haiam Scholarship, Mar 2020 - Feb 2022 (Tuition, 4 Semesters)
+  * Seah Haiam Scholarship Foundation
+  * One of the most prestigious merit-based scholarships in Korea awarded to undergraduate students who are highly prospective
+* Hanyang-Mech Alumni Scholarship, Aug 2020 – Feb 2022 (Stipend, 3 Semesters)
+  * Mechanical Eng. Alumni Association at Hanyang Univ.
+  * Merit-based scholarship awarded to five undergraduate students who are highly prospective by alumni of the mechanical engineering department
+* Excellent Personnel Scholarship, Mar 2019 – Feb 2022 (Stipend, 6 Semesters)
+  * Seoul Scholarship Foundation (SSF)
+  * Merit-based scholarship awarded to 50 undergraduate students who are highly prospective
+* Emons Scholarship, Dec 2018 (Stipend)
+  * Emons Inc.
+  * Merit-based scholarship awarded to 10 undergraduate students who are highly prospective
+
+* ETHOS PRIZE (PRESIDENT`S AWARD)	(2018)
+  * An annual prize of the Hanyang University awarded to one student in the entire engineering department
+  *	Awarded for a person who contains high leadership and dedicates to our society
+
+<br/>
+
+# Other working experiences
+
+### Control-works
+#### Intern, Aug 2022
+
+* Project: _**Developed algorithm for active control of diesel engine injector regarding its degradation status**_
+  * Role: Simulated the applicability of the automatic calibration algorithm with MATLAB and Simulink (w./ Bosch.)
+
+### National Museum of Modern and Contemporary Art, Korea
+#### Office Assistant, Aug 2022
+
+### Seoul Business Agency
+#### Office Assistant, Sep 2019 – Dec 2019
+
+### Korea Worker's Compensation & Welfare Service
+#### Office Assistant, Sep 2018 to Feb 2019
+
+<br/>
+
+# Volunteer works and Donations
+* GAYANG 7 COMPREHENSIVE SOCIAL WELFARE CENTER,	 May. 2018 – Feb. 2019
+  *	Volunteered at the local soup kitchen located in the poor area every weekend, for 142 hours in total.
+  *	Prepared for a free meal, packed, and delivered lunch boxes for underprivileged people suffering from impaired mobility, and managed new-coming volunteers
+
+* MAKE-A-WISH FOUNDATION,	 Apr. 2019 – Aug. 2019
+  *	Volunteered for a child with incurable disease for 25 hours.
+  *	Visited her residence and get along together every week for her emotional stability
+
+* KOREA FOOD FOR THE HUNGRY INTERNATIONAL (KFHI), 	Jul. 2018
+  *	Volunteered at the shop selling donated products every week, for 30 hours.
+ 	* Displayed and organized products; cleaned and managed the store
+
+* WOMEN`S HOPE CENTER, 	Aug. 2020 - Current
+  *	Making a monthly donation to single-mother facilities that prevent abortion and provide nurturing services
+
+* ANNA’S HOUSE, 	Aug. 2020 - Current
+  *	Making a monthly donation to the soup kitchen operated by Catholic church which provides free meals for the underprivileged or homeless people
+
+* SROLANH, 	Aug. 2020 - Current
+ 	* Making a monthly donation to the job rehabilitation service agency (flower shop) which provides jobs for mentally impaired people
