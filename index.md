@@ -11,9 +11,9 @@ cover-img: /assets/img/Conference.jpg
 
 **Minjae Kim** is a **_researcher_** of [Kaeri](https://www.kaeri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
 
-He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
+He has a broad technical background in Prognostics and Health Management of complex multiphysics system, deep learning, signal processing, and computational fluid dynamics. He has written 3 international [research papers](https://scholar.google.com/citations?user=Clgn1SoAAAAJ&hl=en) in his area. His research has been presented in several conferences.
 
-He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
+He is now carrying research on developing primary system of Multi-purpose Small Modular Reactor.
 
 He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
 
