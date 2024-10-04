@@ -61,29 +61,36 @@ title: Research Career
 ### The Korean Government Scholarship Program For Study Overseas (2024)
 * Ministry of Education, Korea Government
 <br/>
+
 ### Fulbright U.S.-Korea Presidential Stem Initiative Award	(2024)
 * Fulbright Foundation, US Government
 <br/>
+
 ### Kwan-Jeong Graduate Scholarship,	Mar 2022 - Feb 2024 (Stipend, 4 Semesters)
 * Kwan-Jeong Educational Foundation
 * One of the most prestigious merit-based scholarship in Korea awarded to one graduate student in the university
 <br/>
+
 ### Seah Haiam Scholarship, Mar 2020 - Feb 2022 (Tuition, 4 Semesters)
 * Seah Haiam Scholarship Foundation
 * One of the most prestigious merit-based scholarships in Korea awarded to undergraduate students who are highly prospective
 <br/>
+
 ### Hanyang-Mech Alumni Scholarship, Aug 2020 – Feb 2022 (Stipend, 3 Semesters)
 * Mechanical Eng. Alumni Association at Hanyang Univ.
 * Merit-based scholarship awarded to five undergraduate students who are highly prospective by alumni of the mechanical engineering department
 <br/>
+
 ### Excellent Personnel Scholarship, Mar 2019 – Feb 2022 (Stipend, 6 Semesters)
 * Seoul Scholarship Foundation (SSF)
 * Merit-based scholarship awarded to 50 undergraduate students who are highly prospective
 <br/>
+
 ### Emons Scholarship, Dec 2018 (Stipend)
 * Emons Inc.
 * Merit-based scholarship awarded to 10 undergraduate students who are highly prospective
 <br/>
+
 ### ETHOS PRIZE (PRESIDENT`S AWARD)	(2018)
 * An annual prize of the Hanyang University awarded to one student in the entire engineering department
 *	Awarded for a person who contains high leadership and dedicates to our society
