@@ -7,13 +7,13 @@ layout: page
 # Academic Experiences
 
 ### Multi-purpose Small Reactor System Dev. Division
-#### Korea Atomic Energy Research Institute (KAERI)
+#### Korea Atomic Energy Research Institute
 #### Engineer (Aug 2024 - Present)
 
 * Project (on-going): _**Development of Multi-purpose Small Modular Reactor**_
   * Role: Design primary system of multi-purpose Small Modular Reactor with computational fluid dynamics
 
-### Applied Dynamics and Intelligent Prognosis Lab. (ADIP)
+### Applied Dynamics and Intelligent Prognosis Lab.
 #### Hanyang University (Seoul)
 #### Post. Masters Student (Mar 2024 - Jul 2024)
 
@@ -34,7 +34,7 @@ layout: page
   * Client: Hyundai Elevator Inc.
 
 ### Department of Infrastructure Safety Research
-#### Korea Institute of Civil Engineering and Building Technology (KICT)
+#### Korea Institute of Civil Engineering and Building Technology
 #### Intern (Jan 2020 - Feb 2020)
 
 * Project: _**Development of mobile non-destructive testing devices for detecting faults at pre-stressed concrete of bridge**_
