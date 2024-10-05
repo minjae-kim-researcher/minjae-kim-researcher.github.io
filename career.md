@@ -116,7 +116,7 @@ layout: page
 
 #### KOREA FOOD FOR THE HUNGRY INTERNATIONAL (KFHI) (Jul 2018)
   *	Volunteered at the shop selling donated products every week, for 30 hours.
- 	* Displayed and organized products; cleaned and managed the store
+  *	Displayed and organized products; cleaned and managed the store
 
 #### WOMEN`S HOPE CENTER (Aug 2020 - Current)
   *	Making a monthly donation to single-mother facilities that prevent abortion and provide nurturing services
