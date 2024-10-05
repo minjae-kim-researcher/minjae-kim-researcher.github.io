@@ -6,7 +6,7 @@ layout: page
 
 # Academic Experiences
 
-### Multi-purpose Small Reactor System Dev. Division
+### Multi-purpose Small Reactor System Development Division
 #### Korea Atomic Energy Research Institute
 #### Engineer (Aug 2024 - Present)
 
@@ -15,7 +15,7 @@ layout: page
 
 <br/>
 
-### Applied Dynamics and Intelligent Prognosis Lab.
+### Applied Dynamics and Intelligent Prognosis Lab
 #### Hanyang University (Seoul)
 #### Post. Master's Student (Mar 2024 - Jul 2024)
 
