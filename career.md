@@ -65,12 +65,12 @@ layout: page
 * Fulbright Foundation, US Government
 
 #### Kwan-Jeong Graduate Scholarship
-#### Mar 2022 - Feb 2024 (Stipend, 4 Semesters)
+  #### Mar 2022 - Feb 2024 (Stipend, 4 Semesters)
 * Kwan-Jeong Educational Foundation
 * One of the most prestigious merit-based scholarship in Korea awarded to one graduate student in the university
 
 #### Seah Haiam Scholarship
-#### Mar 2020 - Feb 2022 (Tuition, 4 Semesters)
+  #### Mar 2020 - Feb 2022 (Tuition, 4 Semesters)
 * Seah Haiam Scholarship Foundation
 * One of the most prestigious merit-based scholarships in Korea awarded to undergraduate students who are highly prospective
 
