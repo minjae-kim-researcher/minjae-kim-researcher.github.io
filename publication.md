@@ -15,6 +15,8 @@ title: Publication
 
 - **Minjae Kim**, Seho Son, & Ki-Yong Oh, _“Margin-maximized hyperspace for fault detection and prediction: A case study with an elevator door,”_ IEEE Access (IF: 3.9) [[pdf]](https://ieeexplore.ieee.org/abstract/document/10309137)
 
+<br/>
+
 ### Conference Papers
 
 - **Minjae Kim**, Seho Son, & Ki-Yong Oh, _“Sensitivity enhanced method for fault detection and prediction of elevator doors using a margin maximized hyperspace,”_ Oral presenter at PHM Society 2023, Salt Lake City, Utah, USA.
