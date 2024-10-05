@@ -125,7 +125,6 @@ layout: page
   *	Making a monthly donation to the soup kitchen operated by Catholic church which provides free meals for the underprivileged or homeless people
 
 #### SROLANH (Aug 2020 - Current)
- 	* Making a monthly donation to the job rehabilitation service agency (flower shop) which provides jobs for mentally impaired people
+  * Making a monthly donation to the job rehabilitation service agency (flower shop) which provides jobs for mentally impaired people
 
-#### 
 <br/>
