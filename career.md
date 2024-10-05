@@ -13,6 +13,8 @@ layout: page
 * Project (on-going): _**Development of Multi-purpose Small Modular Reactor**_
   * Role: Design primary system of multi-purpose Small Modular Reactor with computational fluid dynamics
 
+<br/>
+
 ### Applied Dynamics and Intelligent Prognosis Lab.
 #### Hanyang University (Seoul)
 #### Post. Master's Student (Mar 2024 - Jul 2024)
@@ -32,6 +34,8 @@ layout: page
 * Project: _**Development Of Elevator Operation Management Technology Based On Predictive Preservation (annually $150,000 for 1 yr.)**_
   * Role: Developed a novel fault detection and prediction method for elevator door motors
   * Client: Hyundai Elevator Inc.
+
+<br/>
 
 ### Department of Infrastructure Safety Research
 #### Korea Institute of Civil Engineering and Building Technology
