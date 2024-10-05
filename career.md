@@ -48,10 +48,10 @@ layout: page
 
 # Teaching Experiences
 
-- ADVANCED COMPUTER-AIDED DESIGN
+#### ADVANCED COMPUTER-AIDED DESIGN
   * Provided lessons to 30 graduate students with the CAD (CATIA) practice class for a semester
 
-- DYNAMICS AND CONTROL EXPERIMENT
+#### DYNAMICS AND CONTROL EXPERIMENT
   * Assisted the experiment class by preparing and arranging the training devices including oscilloscope and circuits for a semester
 
 <br/>
