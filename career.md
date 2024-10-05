@@ -97,19 +97,19 @@ layout: page
 
 # Other working experiences
 
-### Control-works
+#### Control-works
 #### Intern, Aug 2022
 
 * Project: _**Developed algorithm for active control of diesel engine injector regarding its degradation status**_
   * Role: Simulated the applicability of the automatic calibration algorithm with MATLAB and Simulink (w./ Bosch.)
 
-### National Museum of Modern and Contemporary Art, Korea
+#### National Museum of Modern and Contemporary Art, Korea
 #### Office Assistant, Aug 2022
 
-### Seoul Business Agency
+#### Seoul Business Agency
 #### Office Assistant, Sep 2019 – Dec 2019
 
-### Korea Worker's Compensation & Welfare Service
+#### Korea Worker's Compensation & Welfare Service
 #### Office Assistant, Sep 2018 to Feb 2019
 
 <br/>
