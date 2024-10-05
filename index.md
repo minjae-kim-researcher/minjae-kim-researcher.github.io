@@ -9,7 +9,7 @@ cover-img: /assets/img/Conference.jpg
 
 ## About me
 
-**Minjae Kim** is a **_researcher_** of [Kaeri](https://www.kaeri.re.kr/) (Korean government-funded national research institute). He diagnoses and predicts the failure of multiphysics system with deep learning frameworks.
+**Minjae Kim** is a **_researcher_** of [KAERI](https://www.kaeri.re.kr/) (Korean government-funded national research institute). He diagnoses and predicts the failure of multiphysics system with deep learning frameworks.
 
 He has a broad technical background in Prognostics and Health Management of complex multiphysics system, deep learning, signal processing, and computational fluid dynamics. He has written 3 international [research papers](https://scholar.google.com/citations?user=Clgn1SoAAAAJ&hl=en) in his area. His research has been presented in several conferences.
 
