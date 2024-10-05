@@ -15,7 +15,9 @@ He has a broad technical background in Prognostics and Health Management of comp
 
 He is now carrying research on developing primary system of Multi-purpose Small Modular Reactor.
 
-He loves to bring new ideas and share it with collaborators.
+He is a self-motivated and proactive researcher eager to contribute to this society with what he have learned.
+
+Also, he loves to bring new ideas and share it with collaborators.
 
 ## Contact
 
