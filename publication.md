@@ -23,4 +23,4 @@ title: Publication
 
 - **Minjae Kim**, Sihyun Yoo, & Ki-Yong Oh, _“Tag selection for the diagnosis of a gas turbine at a combined cycle power plant,”_ Oral presenter at PHM Korea 2023, Seoul, Korea.
 
-- **Minjae Kim**, Sihyun Yoo, & Ki-Yong Oh, _“Anomaly detection of a gas turbine with a variational autoencoder,”_ PHM Korea 2023, Seoul, Korea.
+- Sihyun Yoo, **Minjae Kim**, & Ki-Yong Oh, _“Anomaly detection of a gas turbine with a variational autoencoder,”_ PHM Korea 2023, Seoul, Korea.
