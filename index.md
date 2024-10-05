@@ -21,6 +21,6 @@ He loves to bring new ideas and share it with collaborators.
 
 ```
 Affiliation: Multi-purpose Small Reactor System Development Division, Korea Atomic Energy Research Institute (KAERI)
-Office: KAERI 111, Daedeok-daero 989beon-gil, Yuseong-gu, Daejeon, 34057, Republic of Korea
+Office: 111, Daedeok-daero 989beon-gil, Yuseong-gu, Daejeon, 34057, Republic of Korea
 Email: mintree9@kaeri.re.kr or mintree8@gmail.com
 ```
