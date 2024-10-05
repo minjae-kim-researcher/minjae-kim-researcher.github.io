@@ -5,9 +5,7 @@ title: Publication
 
 # Research Papers
 
-### Journal Papers
-
-#### International
+### International Journal Papers
 
 - **Minjae Son**, Sihyun Yoo, & Ki-Yong Oh, _“Real-time monitoring systems of industrial gas turbines with dynamic safety boundary,”_ (In Preparation)
 
