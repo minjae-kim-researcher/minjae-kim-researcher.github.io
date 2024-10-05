@@ -15,12 +15,12 @@ He has a broad technical background in Prognostics and Health Management of comp
 
 He is now carrying research on developing primary system of Multi-purpose Small Modular Reactor.
 
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
+He loves to bring new ideas and share it with collaborators.
 
 ## Contact
 
 ```
 Affiliation: Multi-purpose Small Reactor System Development Division, Korea Atomic Energy Research Institute (KAERI)
 Office: KAERI 111, Daedeok-daero 989beon-gil, Yuseong-gu, Daejeon, 34057, Republic of Korea
-Email: mintree9[at]etri.re.kr or mintree8[at]gmail.com
+Email: mintree9@etri.re.kr or mintree8@gmail.com
 ```
