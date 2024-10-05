@@ -10,8 +10,8 @@ layout: page
 #### Korea Atomic Energy Research Institute
 #### Engineer (Aug 2024 - Present)
 
-- Project (on-going): _**Development of Multi-purpose Small Modular Reactor**_
-- Role: Design primary system of multi-purpose Small Modular Reactor with computational fluid dynamics
+* Project (on-going): _**Development of Multi-purpose Small Modular Reactor**_
+* Role: Design primary system of multi-purpose Small Modular Reactor with computational fluid dynamics
 
 <br/>
 
@@ -19,21 +19,21 @@ layout: page
 #### Hanyang University (Seoul)
 #### Post. Master's Student (Mar 2024 - Jul 2024)
 
-- Project: _**High-speed thermal runaway and SOX prediction method via AX for interchangeable Lithium-ion and All-Sold-State Battery module**_
-- Role: Drawing up proposals on international cooperation about LiB battery prognostics
-- Collaborators: Univ. of Michigan, Korea Automotive Technology Institute (KATECH), evME (Thailand)
+* Project: _**High-speed thermal runaway and SOX prediction method via AX for interchangeable Lithium-ion and All-Sold-State Battery module**_
+* Role: Drawing up proposals on international cooperation about LiB battery prognostics
+* Collaborators: Univ. of Michigan, Korea Automotive Technology Institute (KATECH), evME (Thailand)
 
 #### Master's Student (Mar 2022 - Feb 2024)
 
-- Project: _**Development Of Intelligent Operation & Maintenance Technologies For Standard Combined Cycle Power Plant (annually $250,000 for 3 yrs.)**_
-- Role: Developed deep learning-based real-time monitoring method for real-world gas turbines in combined cycle power plant
-- Client: Korea Electric Power Corporation
+* Project: _**Development Of Intelligent Operation & Maintenance Technologies For Standard Combined Cycle Power Plant (annually $250,000 for 3 yrs.)**_
+* Role: Developed deep learning-based real-time monitoring method for real-world gas turbines in combined cycle power plant
+* Client: Korea Electric Power Corporation
 
 #### Student researcher (Oct 2021 - Feb 2022)
 
 * Project: _**Development Of Elevator Operation Management Technology Based On Predictive Preservation (annually $150,000 for 1 yr.)**_
-  * Role: Developed a novel fault detection and prediction method for elevator door motors
-  * Client: Hyundai Elevator Inc.
+* Role: Developed a novel fault detection and prediction method for elevator door motors
+* Client: Hyundai Elevator Inc.
 
 <br/>
 
@@ -42,16 +42,16 @@ layout: page
 #### Intern (Jan 2020 - Feb 2020)
 
 * Project: _**Development of mobile non-destructive testing devices for detecting faults at pre-stressed concrete of bridge**_
-  * Role: Designed the hardware of the devices with AutoCAD, adjusted the design by using 3D printing, produced the NDT device with a solenoid, and validated the NDT device with experiments
+* Role: Designed the hardware of the devices with AutoCAD, adjusted the design by using 3D printing, produced the NDT device with a solenoid, and validated the NDT device with experiments
 
 <br/>
 
 # Teaching Experiences
 
-* ADVANCED COMPUTER-AIDED DESIGN
+- ADVANCED COMPUTER-AIDED DESIGN
   * Provided lessons to 30 graduate students with the CAD (CATIA) practice class for a semester
 
-* DYNAMICS AND CONTROL EXPERIMENT
+- DYNAMICS AND CONTROL EXPERIMENT
   * Assisted the experiment class by preparing and arranging the training devices including oscilloscope and circuits for a semester
 
 <br/>
