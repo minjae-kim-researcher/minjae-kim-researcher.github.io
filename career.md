@@ -95,7 +95,7 @@ layout: page
 #### Control-works (Aug 2022)
 
 * Project: _**Developed algorithm for active control of diesel engine injector regarding its degradation status**_
-  * Role: Simulated the applicability of the automatic calibration algorithm with MATLAB and Simulink (w. Bosch.)
+* Role: Simulated the applicability of the automatic calibration algorithm with MATLAB and Simulink (w. Bosch.)
 
 #### National Museum of Modern and Contemporary Art (Aug 2022)
 
