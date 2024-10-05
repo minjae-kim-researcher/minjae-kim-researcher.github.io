@@ -8,7 +8,7 @@ layout: page
 
 ### Multi-purpose Small Reactor System Dev. Division
 #### Korea Atomic Energy Research Institute (KAERI)
-#### Engineer, Aug 2024 - Present
+#### Engineer (Aug 2024 - Present)
 
 * Project (on-going): _**Development of Multi-purpose Small Modular Reactor**_
   * Role: Design primary system of multi-purpose Small Modular Reactor with computational fluid dynamics
