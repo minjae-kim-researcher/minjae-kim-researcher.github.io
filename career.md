@@ -8,7 +8,7 @@ layout: page
 
 ### Multi-purpose Small Reactor System Dev. Division,
 ### Korea Atomic Energy Research Institute (KAERI)
-#### Engineer, Aug 2024 to Present
+#### Engineer, Aug 2024 - Present
 
 * Project (on-going): _**Development of Multi-purpose Small Modular Reactor**_
   * Role: Design primary system of multi-purpose Small Modular Reactor with computational fluid dynamics
@@ -17,19 +17,19 @@ layout: page
 
 ### Applied Dynamics and Intelligent Prognosis Lab. (ADIP),
 ### Hanyang University (Seoul)
-#### Post. Masters Student, Mar 2024 to Jul 2024
+#### Post. Masters Student, Mar 2024 - Jul 2024
 
 * Project: _**High-speed thermal runaway and SOX prediction method via AX for interchangeable Lithium-ion and All-Sold-State Battery module**_
   * Role: Drawing up proposals on international cooperation about LiB battery prognostics
   * Collaborators: Univ. of Michigan, Korea Automotive Technology Institute (KATECH), evME (Thailand)
 
-#### Masters Student, Mar 2022 to Feb 2024
+#### Masters Student, Mar 2022 - Feb 2024
 
 * Project: _**Development Of Intelligent Operation & Maintenance Technologies For Standard Combined Cycle Power Plant (annually $250,000 for 3 yrs.)**_
   * Role: Developed deep learning-based real-time monitoring method for real-world gas turbines in combined cycle power plant
   * Client: Korea Electric Power Corporation
 
-#### Student researcher, Oct 2021 to Feb 2022
+#### Student researcher, Oct 2021 - Feb 2022
 
 * Project: _**Development Of Elevator Operation Management Technology Based On Predictive Preservation (annually $150,000 for 1 yr.)**_
   * Role: Developed a novel fault detection and prediction method for elevator door motors
@@ -39,7 +39,7 @@ layout: page
 
 ### Department of Infrastructure Safety Research,
 ### Korea Institute of Civil Engineering and Building Technology (KICT)
-#### Intern, Jan 2020 to Feb 2020
+#### Intern, Jan 2020 - Feb 2020
 
 * Project: _**Development of mobile non-destructive testing devices for detecting faults at pre-stressed concrete of bridge**_
   * Role: Designed the hardware of the devices with AutoCAD, adjusted the design by using 3D printing, produced the NDT device with a solenoid, and validated the NDT device with experiments
@@ -64,28 +64,23 @@ layout: page
 #### Fulbright U.S.-Korea Presidential Stem Initiative Award	(2024)
 * Fulbright Foundation, US Government
 
-#### Kwan-Jeong Graduate Scholarship
-  #### Mar 2022 - Feb 2024 (Stipend, 4 Semesters)
+#### Kwan-Jeong Graduate Scholarship, Mar 2022 - Feb 2024
 * Kwan-Jeong Educational Foundation
 * One of the most prestigious merit-based scholarship in Korea awarded to one graduate student in the university
 
-#### Seah Haiam Scholarship
-  #### Mar 2020 - Feb 2022 (Tuition, 4 Semesters)
+#### Seah Haiam Scholarship, Mar 2020 - Feb 2022
 * Seah Haiam Scholarship Foundation
 * One of the most prestigious merit-based scholarships in Korea awarded to undergraduate students who are highly prospective
 
-#### Hanyang-Mech Alumni Scholarship
-#### Aug 2020 – Feb 2022 (Stipend, 3 Semesters)
+#### Hanyang-Mech Alumni Scholarship, Aug 2020 – Feb 2022
 * Mechanical Eng. Alumni Association at Hanyang Univ.
 * Merit-based scholarship awarded to five undergraduate students who are highly prospective by alumni of the mechanical engineering department
 
-#### Excellent Personnel Scholarship
-#### Mar 2019 – Feb 2022 (Stipend, 6 Semesters)
+#### Excellent Personnel Scholarship, Mar 2019 – Feb 2022
 * Seoul Scholarship Foundation (SSF)
 * Merit-based scholarship awarded to 50 undergraduate students who are highly prospective
 
-#### Emons Scholarship
-#### Dec 2018 (Stipend)
+#### Emons Scholarship, Dec 2018
 * Emons Inc.
 * Merit-based scholarship awarded to 10 undergraduate students who are highly prospective
 
@@ -97,20 +92,16 @@ layout: page
 
 # Other working experiences
 
-#### Control-works
-#### Intern, Aug 2022
+#### Control-works, Aug 2022
 
 * Project: _**Developed algorithm for active control of diesel engine injector regarding its degradation status**_
   * Role: Simulated the applicability of the automatic calibration algorithm with MATLAB and Simulink (w./ Bosch.)
 
-#### National Museum of Modern and Contemporary Art, Korea
-#### Office Assistant, Aug 2022
+#### National Museum of Modern and Contemporary Art, Aug 2022
 
-#### Seoul Business Agency
-#### Office Assistant, Sep 2019 – Dec 2019
+#### Seoul Business Agency, Sep 2019 – Dec 2019
 
-#### Korea Worker's Compensation & Welfare Service
-#### Office Assistant, Sep 2018 to Feb 2019
+#### Korea Worker's Compensation & Welfare Service, Sep 2018 - Feb 2019
 
 <br/>
 
