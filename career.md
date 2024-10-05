@@ -115,31 +115,25 @@ layout: page
 <br/>
 
 # Volunteer works and Donations
-#### GAYANG 7 COMPREHENSIVE SOCIAL WELFARE CENTER
-#### May. 2018 – Feb. 2019
+#### GAYANG 7 COMPREHENSIVE SOCIAL WELFARE CENTER, May. 2018 – Feb. 2019
   *	Volunteered at the local soup kitchen located in the poor area every weekend, for 142 hours in total.
   *	Prepared for a free meal, packed, and delivered lunch boxes for underprivileged people suffering from impaired mobility, and managed new-coming volunteers
 
-#### MAKE-A-WISH FOUNDATION
-#### Apr. 2019 – Aug. 2019
+#### MAKE-A-WISH FOUNDATION, Apr. 2019 – Aug. 2019
   *	Volunteered for a child with incurable disease for 25 hours.
   *	Visited her residence and get along together every week for her emotional stability
 
-#### KOREA FOOD FOR THE HUNGRY INTERNATIONAL (KFHI)
-#### Jul. 2018
+#### KOREA FOOD FOR THE HUNGRY INTERNATIONAL (KFHI), Jul. 2018
   *	Volunteered at the shop selling donated products every week, for 30 hours.
  	* Displayed and organized products; cleaned and managed the store
 
-#### WOMEN`S HOPE CENTER
-#### Aug. 2020 - Current
+#### WOMEN`S HOPE CENTER, Aug. 2020 - Current
   *	Making a monthly donation to single-mother facilities that prevent abortion and provide nurturing services
 
-#### ANNA’S HOUSE
-#### Aug. 2020 - Current
+#### ANNA’S HOUSE, Aug. 2020 - Current
   *	Making a monthly donation to the soup kitchen operated by Catholic church which provides free meals for the underprivileged or homeless people
 
-#### SROLANH
-#### Aug. 2020 - Current
+#### SROLANH, Aug. 2020 - Current
  	* Making a monthly donation to the job rehabilitation service agency (flower shop) which provides jobs for mentally impaired people
 
 #### 
