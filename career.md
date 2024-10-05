@@ -21,7 +21,7 @@ layout: page
   * Role: Drawing up proposals on international cooperation about LiB battery prognostics
   * Collaborators: Univ. of Michigan, Korea Automotive Technology Institute (KATECH), evME (Thailand)
 
-#### Masters Student (Mar 2022 - Feb 2024)
+#### Master`s Student (Mar 2022 - Feb 2024)
 
 * Project: _**Development Of Intelligent Operation & Maintenance Technologies For Standard Combined Cycle Power Plant (annually $250,000 for 3 yrs.)**_
   * Role: Developed deep learning-based real-time monitoring method for real-world gas turbines in combined cycle power plant
