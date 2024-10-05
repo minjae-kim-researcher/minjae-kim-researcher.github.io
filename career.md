@@ -37,7 +37,7 @@ layout: page
 
 <br/>
 
-### Department of Infrastructure Safety Research,
+### Department of Infrastructure Safety Research
 #### Korea Institute of Civil Engineering and Building Technology (KICT)
 #### Intern (Jan 2020 - Feb 2020)
 
