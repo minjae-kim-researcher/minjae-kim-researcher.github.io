@@ -64,23 +64,28 @@ layout: page
 #### Fulbright U.S.-Korea Presidential Stem Initiative Award	(2024)
 * Fulbright Foundation, US Government
 
-#### Kwan-Jeong Graduate Scholarship,	Mar 2022 - Feb 2024 (Stipend, 4 Semesters)
+#### Kwan-Jeong Graduate Scholarship
+#### Mar 2022 - Feb 2024 (Stipend, 4 Semesters)
 * Kwan-Jeong Educational Foundation
 * One of the most prestigious merit-based scholarship in Korea awarded to one graduate student in the university
 
-#### Seah Haiam Scholarship, Mar 2020 - Feb 2022 (Tuition, 4 Semesters)
+#### Seah Haiam Scholarship
+#### Mar 2020 - Feb 2022 (Tuition, 4 Semesters)
 * Seah Haiam Scholarship Foundation
 * One of the most prestigious merit-based scholarships in Korea awarded to undergraduate students who are highly prospective
 
-#### Hanyang-Mech Alumni Scholarship, Aug 2020 – Feb 2022 (Stipend, 3 Semesters)
+#### Hanyang-Mech Alumni Scholarship
+#### Aug 2020 – Feb 2022 (Stipend, 3 Semesters)
 * Mechanical Eng. Alumni Association at Hanyang Univ.
 * Merit-based scholarship awarded to five undergraduate students who are highly prospective by alumni of the mechanical engineering department
 
-#### Excellent Personnel Scholarship, Mar 2019 – Feb 2022 (Stipend, 6 Semesters)
+#### Excellent Personnel Scholarship
+#### Mar 2019 – Feb 2022 (Stipend, 6 Semesters)
 * Seoul Scholarship Foundation (SSF)
 * Merit-based scholarship awarded to 50 undergraduate students who are highly prospective
 
-#### Emons Scholarship, Dec 2018 (Stipend)
+#### Emons Scholarship
+#### Dec 2018 (Stipend)
 * Emons Inc.
 * Merit-based scholarship awarded to 10 undergraduate students who are highly prospective
 
@@ -110,25 +115,31 @@ layout: page
 <br/>
 
 # Volunteer works and Donations
-#### GAYANG 7 COMPREHENSIVE SOCIAL WELFARE CENTER,	 May. 2018 – Feb. 2019
+#### GAYANG 7 COMPREHENSIVE SOCIAL WELFARE CENTER
+#### May. 2018 – Feb. 2019
   *	Volunteered at the local soup kitchen located in the poor area every weekend, for 142 hours in total.
   *	Prepared for a free meal, packed, and delivered lunch boxes for underprivileged people suffering from impaired mobility, and managed new-coming volunteers
 
-#### MAKE-A-WISH FOUNDATION,	 Apr. 2019 – Aug. 2019
+#### MAKE-A-WISH FOUNDATION
+#### Apr. 2019 – Aug. 2019
   *	Volunteered for a child with incurable disease for 25 hours.
   *	Visited her residence and get along together every week for her emotional stability
 
-#### KOREA FOOD FOR THE HUNGRY INTERNATIONAL (KFHI), 	Jul. 2018
+#### KOREA FOOD FOR THE HUNGRY INTERNATIONAL (KFHI)
+#### Jul. 2018
   *	Volunteered at the shop selling donated products every week, for 30 hours.
  	* Displayed and organized products; cleaned and managed the store
 
-#### WOMEN`S HOPE CENTER, 	Aug. 2020 - Current
+#### WOMEN`S HOPE CENTER
+#### Aug. 2020 - Current
   *	Making a monthly donation to single-mother facilities that prevent abortion and provide nurturing services
 
-#### ANNA’S HOUSE, 	Aug. 2020 - Current
+#### ANNA’S HOUSE
+#### Aug. 2020 - Current
   *	Making a monthly donation to the soup kitchen operated by Catholic church which provides free meals for the underprivileged or homeless people
 
-#### SROLANH, 	Aug. 2020 - Current
+#### SROLANH
+#### Aug. 2020 - Current
  	* Making a monthly donation to the job rehabilitation service agency (flower shop) which provides jobs for mentally impaired people
 
 #### 
