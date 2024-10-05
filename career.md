@@ -38,7 +38,7 @@ layout: page
 <br/>
 
 ### Department of Infrastructure Safety Research,
-### Korea Institute of Civil Engineering and Building Technology (KICT)
+#### Korea Institute of Civil Engineering and Building Technology (KICT)
 #### Intern (Jan 2020 - Feb 2020)
 
 * Project: _**Development of mobile non-destructive testing devices for detecting faults at pre-stressed concrete of bridge**_
