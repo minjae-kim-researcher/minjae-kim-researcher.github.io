@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Research Objective
 ---
+
+# Research Objective
 
 <br/>
 
