@@ -6,7 +6,7 @@ layout: page
 
 ### International Journal Papers
 
-- **Minjae Son**, Sihyun Yoo, & Ki-Yong Oh, _“Real-time monitoring systems of industrial gas turbines with dynamic safety boundary,”_ (In Preparation)
+- **Minjae Kim**, Sihyun Yoo, & Ki-Yong Oh, _“Real-time monitoring systems of industrial gas turbines with dynamic safety boundary,”_ (In Preparation)
 
 - Sihyun Yoo, **Minjae Kim**, & Ki-Yong Oh, _“An explainable anomaly detection framework for gas turbines with feature selection,”_ Structural Health Monitoring (IF: 5.7, Submitted)
 
