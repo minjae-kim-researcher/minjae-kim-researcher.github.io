@@ -1,10 +1,9 @@
 ---
 layout: page
+title: Research Objective
 ---
 
 <br/>
-
-# Study/Research Objective
 
 My lab (master’s) is a slightly different kind of lab; it is a lab of course, but also a company. A consulting company to be specific, in my case, close to 100% of all my projects carried out at the lab are for clients like the Korea Electric Power Corporation (KEPCO), the government-owned public corporation (6th largest company in Korea) that supplies power to all Koreans and companies and the Hyundai Elevator, run by the Hyundai Group, only second to Samsung.
 
