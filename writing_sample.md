@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Writing sample
 ---
 
 <br/>
+
+# Writing sample
 
 ### Explore my newest research paper, where I delve into advanced AI methods to solve real-world challenges!
 
