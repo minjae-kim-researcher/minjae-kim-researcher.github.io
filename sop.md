@@ -60,18 +60,31 @@ So, I would like to believe that I am an individual who has a good balance - goo
 
 ### References
 [1]	Kim, M., Yoo, S., Son, S., Chang, S-Y., & Oh, K-Y., (2024). Deep learning framework of explainable remaining useful life with physics-informed feature transformation. Engineering Applications of Artificial Intelligence (Under review).
+
 [2]	Beita, J., Talibi, M., Sadasivuni, S., & Balachandran, R. (2021). Thermoacoustic instability considerations for high hydrogen combustion in lean premixed gas turbine combustors: a review. Hydrogen, 2(1), 33-57.
+
 [3]	Lee et al. (2004). Phase-Resolved CARS Temperature Measurements in a Lean Premixed Gas Turbine Combustor (Ⅰ)-Effects of Equivalence Ratio on Phase-Resolved Gas Temperature-. Transactions of the Korean Society of Mechanical Engineers - B, 28(10), 1184-1192.
+
 [4]	Oyediran, A., Darling, D., & Radhakrishnan, K. (1995, July). Review of combustion-acoustics instabilities. In 31st Joint Propulsion Conference and Exhibit (p. 2469).
+
 [5]	Long, Z., Zhou, Z., Suo, P., Yao, P., Bai, M., Liu, J., & Yu, D. (2024). Gas turbine circumferential temperature distribution model for the combustion system fault detection. Engineering Failure Analysis, 108032.
+
 [6]	Nam, J., & Yoh, J. J. (2023). Large eddy simulation of combustion instabilities in multiple combustors densely interacting with each other. Applied Thermal Engineering, 220, 119714.
+
 [7]	Sharma, P., Chung, W. T., Akoush, B., & Ihme, M. (2023). A review of physics-informed machine learning in fluid mechanics. Energies, 16(5), 2343.
+
 [8]	Son, S., Lee, H., Jeong, D., Oh, K. Y., & Sun, K. H. (2023). A novel physics-informed neural network for modeling electromagnetism of a permanent magnet synchronous motor. Advanced Engineering Informatics, 57, 102035.
+
 [9]	Joo, S., Choi, J., Lee, M. C., & Kim, N. (2021). Prognosis of combustion instability in a gas turbine combustor using spectral centroid & spread. Energy, 224, 120180.
+
 [10]	Zhang, Y., Liu, X., & Che, D. (2019). Numerical study of the self-excited thermoacoustic vibrations occurring in combustion system. Applied Thermal Engineering, 160, 113994.
+
 [11]	Evans, M. J., & Medwell, P. R. (2019). Understanding and interpreting laser diagnostics in flames: A review of experimental measurement techniques. Frontiers in Mechanical Engineering, 5, 65.
+
 [12]	Nakaya, S., Yamana, H., & Tsue, M. (2021). Experimental investigation of ethylene/air combustion instability in a model scramjet combustor using image-based methods. Proceedings of the Combustion Institute, 38(3), 3869-3880.
+
 [13]	Choi, O., Choi, J., Kim, N., & Lee, M. C. (2020). Combustion instability monitoring through deep-learning-based classification of sequential high-speed flame images. Electronics, 9(5), 848.
+
 [14]	Liu, Y., Li, J., Zhang, T., & Yan, Y. (2021). Active suppression of swirl-stabilized combustion instability. Fuel, 287, 119559.
 
 <br/>
