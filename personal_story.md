@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Personal statement
 ---
 
 <br/>
+
+# Personal Statement
 
 ### Who am I? What drives me?
 
