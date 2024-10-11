@@ -19,6 +19,8 @@ He is a self-motivated and proactive researcher eager to contribute to this soci
 
 He also loves to bring new ideas and share it with collaborators.
 
+![KAERI_day](assets/img/KAERI_day.jpg)
+
 ## Contact
 
 ```
