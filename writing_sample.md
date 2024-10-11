@@ -13,4 +13,6 @@ title: Publication
 
 **- Response to Reviewers : [[pdf]](https://drive.google.com/file/d/1BpZyeMK6PVN5mJ6tFajzJGt-YDsYNJyF/view?usp=drive_link)**
 
+![Schematic diagram](assets/img/EAAI_Fig 1.tif)
+
 <br/>
