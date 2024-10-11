@@ -1,10 +1,9 @@
 ---
 layout: page
+title: Publication
 ---
 
 <br/>
-
-# Personal Statement
 
 ### Who am I? What drives me?
 
