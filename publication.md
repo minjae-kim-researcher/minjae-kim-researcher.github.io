@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Publication
 ---
 
-# Research Papers
+# Publication
 
 ### International Journal Papers
 
