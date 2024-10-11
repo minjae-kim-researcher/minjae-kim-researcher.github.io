@@ -7,7 +7,7 @@ layout: page
 # Academic Experiences
 
 ### Multi-purpose Small Reactor System Development Division
-#### Korea Atomic Energy Research Institute
+#### _**Korea Atomic Energy Research Institute**_
 #### Engineer (Aug 2024 - Present)
 
 * Project (on-going): _**Development of Multi-purpose Small Modular Reactor**_
@@ -16,7 +16,7 @@ layout: page
 <br/>
 
 ### Applied Dynamics and Intelligent Prognosis Lab
-#### Hanyang University (Seoul)
+#### _**Hanyang University (Seoul)**_
 #### Post. Master's Student (Mar 2024 - Jul 2024)
 
 * Project: _**High-speed thermal runaway and SOX prediction method via AX for interchangeable Lithium-ion and All-Sold-State Battery module**_
@@ -38,7 +38,7 @@ layout: page
 <br/>
 
 ### Department of Infrastructure Safety Research
-#### Korea Institute of Civil Engineering and Building Technology
+#### _**Korea Institute of Civil Engineering and Building Technology**_
 #### Intern (Jan 2020 - Feb 2020)
 
 * Project: _**Development of mobile non-destructive testing devices for detecting faults at pre-stressed concrete of bridge**_
